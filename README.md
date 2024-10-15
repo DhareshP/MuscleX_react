@@ -1,15 +1,11 @@
-# Getting Started with Create React App
+# Musclex UI using ReactJs and Tailwind Css.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Status
+This project is currently under active development and is regularly updated with new features and improvements. It is a dynamic web application that will continue to evolve.
 
-## Available Scripts
-
-In the project directory, you can run:
+This project was bootstrapped with [Create React App]
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
