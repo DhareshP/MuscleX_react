@@ -3,7 +3,7 @@
 Project Status
 This project is currently under active development and is regularly updated with new features and improvements. It is a dynamic web application that will continue to evolve.
 
-# Chatbot available
+### Chatbot available, is under development for feedbacks
 
 This project was bootstrapped with [Create React App]
 
