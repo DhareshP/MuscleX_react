@@ -14,7 +14,7 @@ import CalisthenicsPage from "./components/train/calisthenics/calisthenics";
 // import AboutsPage from "./components/about/aboutmsx";
 import LoginPage from "./components/Login/login";
 import SignUpPage from "./components/Login/signUp";
-
+// import Chatbot from "./components2/chatbot/chatbot";
 
 
 function App() {
@@ -39,7 +39,7 @@ function App() {
 
 
       </Routes>
-    </div>
+      </div>
     </Router>    
     </main>
   );
